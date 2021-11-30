@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>800</id>
+      <name>314</name>
+      <size>300</size>
+      <mode>interpolation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2020-09-23 03:21:17.686905+00:00</created>
+      <updated>2020-09-23 03:21:17.686919+00:00</updated>
+      <start_frame>0</start_frame>
+      <stop_frame>299</stop_frame>
+      <frame_filter></frame_filter>
+      <z_order>False</z_order>
+      <labels>
+        <label>
+          <name>sounding object</name>
+          <color>#8d3f61</color>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>800</id>
+          <start>0</start>
+          <stop>299</stop>
+          <url>http://localhost:8080/?id=800</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>lester</username>
+        <email>lester0866@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <original_size>
+        <width>480</width>
+        <height>320</height>
+      </original_size>
+    </task>
+    <dumped>2020-10-06 00:13:23.640231+00:00</dumped>
+    <source>1xIoEndn2U4.mp4</source>
+  </meta>
+</annotations>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>533</id>
+      <name>47</name>
+      <size>301</size>
+      <mode>interpolation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2020-09-23 03:15:10.323776+00:00</created>
+      <updated>2020-09-25 22:19:43.652090+00:00</updated>
+      <start_frame>0</start_frame>
+      <stop_frame>300</stop_frame>
+      <frame_filter></frame_filter>
+      <z_order>False</z_order>
+      <labels>
+        <label>
+          <name>sounding object</name>
+          <color>#8d3f61</color>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>532</id>
+          <start>0</start>
+          <stop>300</stop>
+          <url>http://localhost:8080/?id=532</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>lester</username>
+        <email>lester0866@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <original_size>
+        <width>320</width>
+        <height>240</height>
+      </original_size>
+    </task>
+    <dumped>2020-10-06 00:07:23.227611+00:00</dumped>
+    <source>ALP8_z817Uw.mp4</source>
+  </meta>
+  <track id="0" label="sounding object" source="manual">
+    <box frame="104" outside="0" occluded="0" keyframe="1" xtl="11.28" ytl="0.00" xbr="272.40" ybr="158.00">
+    </box>
+    <box frame="105" outside="0" occluded="0" keyframe="0" xtl="19.64" ytl="0.32" xbr="276.68" ybr="157.81">
+    </box>
+    <box frame="106" outside="0" occluded="0" keyframe="0" xtl="28.01" ytl="0.64" xbr="280.95" ybr="157.62">
+    </box>
+    <box frame="107" outside="0" occluded="0" keyframe="0" xtl="36.37" ytl="0.95" xbr="285.23" ybr="157.43">
+    </box>
+    <box frame="108" outside="0" occluded="0" keyframe="0" xtl="44.74" ytl="1.27" xbr="289.50" ybr="157.24">
+    </box>
+    <box frame="109" outside="0" occluded="0" keyframe="0" xtl="53.11" ytl="1.59" xbr="293.78" ybr="157.05">
+    </box>
+    <box frame="110" outside="0" occluded="0" keyframe="0" xtl="61.47" ytl="1.91" xbr="298.05" ybr="156.86">
+    </box>
+    <box frame="111" outside="0" occluded="0" keyframe="0" xtl="69.84" ytl="2.23" xbr="302.33" ybr="156.67">
+    </box>
+    <box frame="112" outside="0" occluded="0" keyframe="0" xtl="78.20" ytl="2.55" xbr="306.61" ybr="156.48">
+    </box>
+    <box frame="113" outside="0" occluded="0" keyframe="0" xtl="86.57" ytl="2.86" xbr="310.88" ybr="156.30">
+    </box>
+    <box frame="114" outside="0" occluded="0" keyframe="0" xtl="94.93" ytl="3.18" xbr="315.16" ybr="156.11">
+    </box>
+    <box frame="115" outside="0" occluded="0" keyframe="1" xtl="103.30" ytl="3.50" xbr="319.43" ybr="155.92">
+    </box>
+    <box frame="116" outside="0" occluded="0" keyframe="0" xtl="95.69" ytl="3.71" xbr="311.82" ybr="156.13">
+    </box>
+    <box frame="117" outside="0" occluded="0" keyframe="0" xtl="88.08" ytl="3.93" xbr="304.21" ybr="156.34">
+    </box>
+    <box frame="118" outside="0" occluded="0" keyframe="0" xtl="80.46" ytl="4.14" xbr="296.60" ybr="156.55">
+    </box>
+    <box frame="119" outside="0" occluded="0" keyframe="0" xtl="72.85" ytl="4.35" xbr="288.99" ybr="156.77">
+    </box>
+    <box frame="120" outside="0" occluded="0" keyframe="0" xtl="65.24" ytl="4.56" xbr="281.37" ybr="156.98">
+    </box>
+    <box frame="121" outside="0" occluded="0" keyframe="0" xtl="57.63" ytl="4.78" xbr="273.76" ybr="157.19">
+    </box>
+    <box frame="122" outside="0" occluded="0" keyframe="1" xtl="50.02" ytl="4.99" xbr="266.15" ybr="157.40">
+    </box>
+    <box frame="123" outside="1" occluded="0" keyframe="1" xtl="50.02" ytl="4.99" xbr="266.15" ybr="157.40">
+    </box>
+  </track>
+</annotations>

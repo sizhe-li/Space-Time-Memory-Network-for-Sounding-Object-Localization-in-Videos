@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>733</id>
+      <name>247</name>
+      <size>300</size>
+      <mode>interpolation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2020-09-23 03:19:44.830392+00:00</created>
+      <updated>2020-10-02 00:11:27.284171+00:00</updated>
+      <start_frame>0</start_frame>
+      <stop_frame>299</stop_frame>
+      <frame_filter></frame_filter>
+      <z_order>False</z_order>
+      <labels>
+        <label>
+          <name>sounding object</name>
+          <color>#8d3f61</color>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>733</id>
+          <start>0</start>
+          <stop>299</stop>
+          <url>http://localhost:8080/?id=733</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>lester</username>
+        <email>lester0866@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <original_size>
+        <width>540</width>
+        <height>360</height>
+      </original_size>
+    </task>
+    <dumped>2020-10-06 00:11:52.859674+00:00</dumped>
+    <source>5NwrPL4p0Co.mp4</source>
+  </meta>
+  <track id="0" label="sounding object" source="manual">
+    <box frame="38" outside="0" occluded="0" keyframe="1" xtl="175.15" ytl="79.60" xbr="540.00" ybr="247.53">
+    </box>
+    <box frame="39" outside="0" occluded="0" keyframe="0" xtl="171.63" ytl="78.18" xbr="540.00" ybr="247.64">
+    </box>
+    <box frame="40" outside="0" occluded="0" keyframe="0" xtl="168.10" ytl="76.76" xbr="540.00" ybr="247.75">
+    </box>
+    <box frame="41" outside="0" occluded="0" keyframe="0" xtl="164.58" ytl="75.33" xbr="540.00" ybr="247.86">
+    </box>
+    <box frame="42" outside="0" occluded="0" keyframe="0" xtl="161.06" ytl="73.91" xbr="540.00" ybr="247.98">
+    </box>
+    <box frame="43" outside="0" occluded="0" keyframe="0" xtl="157.54" ytl="72.49" xbr="540.00" ybr="248.09">
+    </box>
+    <box frame="44" outside="0" occluded="0" keyframe="0" xtl="154.02" ytl="71.07" xbr="540.00" ybr="248.20">
+    </box>
+    <box frame="45" outside="0" occluded="0" keyframe="0" xtl="150.49" ytl="69.64" xbr="540.00" ybr="248.31">
+    </box>
+    <box frame="46" outside="0" occluded="0" keyframe="0" xtl="146.97" ytl="68.22" xbr="540.00" ybr="248.42">
+    </box>
+    <box frame="47" outside="0" occluded="0" keyframe="1" xtl="143.45" ytl="66.80" xbr="540.00" ybr="248.53">
+    </box>
+    <box frame="48" outside="0" occluded="0" keyframe="0" xtl="148.59" ytl="69.70" xbr="540.00" ybr="245.98">
+    </box>
+    <box frame="49" outside="0" occluded="0" keyframe="0" xtl="153.74" ytl="72.60" xbr="540.00" ybr="243.42">
+    </box>
+    <box frame="50" outside="0" occluded="0" keyframe="0" xtl="158.89" ytl="75.50" xbr="540.00" ybr="240.87">
+    </box>
+    <box frame="51" outside="0" occluded="0" keyframe="0" xtl="164.03" ytl="78.40" xbr="540.00" ybr="238.31">
+    </box>
+    <box frame="52" outside="0" occluded="0" keyframe="1" xtl="169.18" ytl="81.30" xbr="540.00" ybr="235.76">
+    </box>
+    <box frame="53" outside="0" occluded="0" keyframe="0" xtl="180.16" ytl="87.41" xbr="540.00" ybr="237.77">
+    </box>
+    <box frame="54" outside="0" occluded="0" keyframe="0" xtl="191.15" ytl="93.51" xbr="540.00" ybr="239.78">
+    </box>
+    <box frame="55" outside="0" occluded="0" keyframe="0" xtl="202.14" ytl="99.62" xbr="540.00" ybr="241.79">
+    </box>
+    <box frame="56" outside="0" occluded="0" keyframe="1" xtl="213.12" ytl="105.72" xbr="540.00" ybr="243.80">
+    </box>
+    <box frame="57" outside="0" occluded="0" keyframe="0" xtl="217.59" ytl="107.06" xbr="540.00" ybr="245.20">
+    </box>
+    <box frame="58" outside="0" occluded="0" keyframe="0" xtl="222.06" ytl="108.39" xbr="540.00" ybr="246.61">
+    </box>
+    <box frame="59" outside="0" occluded="0" keyframe="0" xtl="226.52" ytl="109.73" xbr="540.00" ybr="248.01">
+    </box>
+    <box frame="60" outside="0" occluded="0" keyframe="0" xtl="230.99" ytl="111.06" xbr="540.00" ybr="249.42">
+    </box>
+    <box frame="61" outside="0" occluded="0" keyframe="0" xtl="235.46" ytl="112.40" xbr="540.00" ybr="250.82">
+    </box>
+    <box frame="62" outside="0" occluded="0" keyframe="0" xtl="239.92" ytl="113.73" xbr="540.00" ybr="252.23">
+    </box>
+    <box frame="63" outside="0" occluded="0" keyframe="0" xtl="244.39" ytl="115.07" xbr="540.00" ybr="253.63">
+    </box>
+    <box frame="64" outside="0" occluded="0" keyframe="0" xtl="248.86" ytl="116.40" xbr="540.00" ybr="255.04">
+    </box>
+    <box frame="65" outside="0" occluded="0" keyframe="0" xtl="253.33" ytl="117.74" xbr="540.00" ybr="256.44">
+    </box>
+    <box frame="66" outside="0" occluded="0" keyframe="0" xtl="257.79" ytl="119.07" xbr="540.00" ybr="257.85">
+    </box>
+    <box frame="67" outside="0" occluded="0" keyframe="1" xtl="262.26" ytl="120.41" xbr="540.00" ybr="259.25">
+    </box>
+    <box frame="68" outside="0" occluded="0" keyframe="0" xtl="261.17" ytl="117.52" xbr="540.00" ybr="255.31">
+    </box>
+    <box frame="69" outside="0" occluded="0" keyframe="0" xtl="260.07" ytl="114.63" xbr="540.00" ybr="251.36">
+    </box>
+    <box frame="70" outside="0" occluded="0" keyframe="0" xtl="258.98" ytl="111.75" xbr="540.00" ybr="247.42">
+    </box>
+    <box frame="71" outside="0" occluded="0" keyframe="0" xtl="257.88" ytl="108.86" xbr="540.00" ybr="243.47">
+    </box>
+    <box frame="72" outside="0" occluded="0" keyframe="0" xtl="256.79" ytl="105.98" xbr="540.00" ybr="239.53">
+    </box>
+    <box frame="73" outside="0" occluded="0" keyframe="0" xtl="255.69" ytl="103.09" xbr="540.00" ybr="235.58">
+    </box>
+    <box frame="74" outside="0" occluded="0" keyframe="0" xtl="254.60" ytl="100.20" xbr="540.00" ybr="231.64">
+    </box>
+    <box frame="75" outside="0" occluded="0" keyframe="0" xtl="253.50" ytl="97.32" xbr="540.00" ybr="227.69">
+    </box>
+    <box frame="76" outside="0" occluded="0" keyframe="0" xtl="252.41" ytl="94.43" xbr="540.00" ybr="223.75">
+    </box>
+    <box frame="77" outside="0" occluded="0" keyframe="1" xtl="251.31" ytl="91.54" xbr="540.00" ybr="219.80">
+    </box>
+    <box frame="78" outside="0" occluded="0" keyframe="0" xtl="248.29" ytl="95.23" xbr="538.82" ybr="222.49">
+    </box>
+    <box frame="79" outside="0" occluded="0" keyframe="0" xtl="245.27" ytl="98.92" xbr="537.64" ybr="225.18">
+    </box>
+    <box frame="80" outside="0" occluded="0" keyframe="0" xtl="242.24" ytl="102.60" xbr="536.46" ybr="227.87">
+    </box>
+    <box frame="81" outside="0" occluded="0" keyframe="0" xtl="239.22" ytl="106.29" xbr="535.28" ybr="230.56">
+    </box>
+    <box frame="82" outside="0" occluded="0" keyframe="0" xtl="236.20" ytl="109.98" xbr="534.10" ybr="233.25">
+    </box>
+    <box frame="83" outside="0" occluded="0" keyframe="0" xtl="233.17" ytl="113.66" xbr="532.92" ybr="235.94">
+    </box>
+    <box frame="84" outside="0" occluded="0" keyframe="0" xtl="230.15" ytl="117.35" xbr="531.74" ybr="238.63">
+    </box>
+    <box frame="85" outside="0" occluded="0" keyframe="0" xtl="227.12" ytl="121.04" xbr="530.56" ybr="241.32">
+    </box>
+    <box frame="86" outside="0" occluded="0" keyframe="0" xtl="224.10" ytl="124.72" xbr="529.38" ybr="244.01">
+    </box>
+    <box frame="87" outside="0" occluded="0" keyframe="1" xtl="221.08" ytl="128.41" xbr="528.20" ybr="246.70">
+    </box>
+    <box frame="88" outside="0" occluded="0" keyframe="0" xtl="224.64" ytl="130.33" xbr="530.56" ybr="253.08">
+    </box>
+    <box frame="89" outside="0" occluded="0" keyframe="0" xtl="228.21" ytl="132.24" xbr="532.92" ybr="259.46">
+    </box>
+    <box frame="90" outside="0" occluded="0" keyframe="0" xtl="231.78" ytl="134.16" xbr="535.28" ybr="265.84">
+    </box>
+    <box frame="91" outside="0" occluded="0" keyframe="0" xtl="235.34" ytl="136.08" xbr="537.64" ybr="272.22">
+    </box>
+    <box frame="92" outside="0" occluded="0" keyframe="1" xtl="238.91" ytl="138.00" xbr="540.00" ybr="278.60">
+    </box>
+    <box frame="93" outside="0" occluded="0" keyframe="0" xtl="243.63" ytl="140.46" xbr="539.58" ybr="278.18">
+    </box>
+    <box frame="94" outside="0" occluded="0" keyframe="0" xtl="248.34" ytl="142.92" xbr="539.16" ybr="277.76">
+    </box>
+    <box frame="95" outside="0" occluded="0" keyframe="0" xtl="253.06" ytl="145.38" xbr="538.74" ybr="277.34">
+    </box>
+    <box frame="96" outside="0" occluded="0" keyframe="0" xtl="257.77" ytl="147.84" xbr="538.32" ybr="276.92">
+    </box>
+    <box frame="97" outside="0" occluded="0" keyframe="1" xtl="262.49" ytl="150.30" xbr="537.90" ybr="276.50">
+    </box>
+    <box frame="98" outside="0" occluded="0" keyframe="0" xtl="262.33" ytl="151.05" xbr="538.01" ybr="278.11">
+    </box>
+    <box frame="99" outside="0" occluded="0" keyframe="0" xtl="262.17" ytl="151.80" xbr="538.11" ybr="279.72">
+    </box>
+    <box frame="100" outside="0" occluded="0" keyframe="0" xtl="262.01" ytl="152.55" xbr="538.22" ybr="281.33">
+    </box>
+    <box frame="101" outside="0" occluded="0" keyframe="0" xtl="261.85" ytl="153.30" xbr="538.33" ybr="282.94">
+    </box>
+    <box frame="102" outside="0" occluded="0" keyframe="0" xtl="261.69" ytl="154.05" xbr="538.44" ybr="284.55">
+    </box>
+    <box frame="103" outside="0" occluded="0" keyframe="0" xtl="261.53" ytl="154.80" xbr="538.54" ybr="286.16">
+    </box>
+    <box frame="104" outside="0" occluded="0" keyframe="0" xtl="261.38" ytl="155.55" xbr="538.65" ybr="287.77">
+    </box>
+    <box frame="105" outside="0" occluded="0" keyframe="0" xtl="261.22" ytl="156.30" xbr="538.76" ybr="289.38">
+    </box>
+    <box frame="106" outside="0" occluded="0" keyframe="0" xtl="261.06" ytl="157.05" xbr="538.87" ybr="290.99">
+    </box>
+    <box frame="107" outside="0" occluded="0" keyframe="1" xtl="260.90" ytl="157.80" xbr="538.97" ybr="292.60">
+    </box>
+    <box frame="108" outside="0" occluded="0" keyframe="0" xtl="260.42" ytl="157.00" xbr="538.97" ybr="292.76">
+    </box>
+    <box frame="109" outside="0" occluded="0" keyframe="0" xtl="259.94" ytl="156.19" xbr="538.97" ybr="292.92">
+    </box>
+    <box frame="110" outside="0" occluded="0" keyframe="0" xtl="259.46" ytl="155.39" xbr="538.97" ybr="293.08">
+    </box>
+    <box frame="111" outside="0" occluded="0" keyframe="0" xtl="258.98" ytl="154.59" xbr="538.97" ybr="293.24">
+    </box>
+    <box frame="112" outside="0" occluded="0" keyframe="0" xtl="258.50" ytl="153.78" xbr="538.97" ybr="293.40">
+    </box>
+    <box frame="113" outside="0" occluded="0" keyframe="0" xtl="258.02" ytl="152.98" xbr="538.97" ybr="293.56">
+    </box>
+    <box frame="114" outside="0" occluded="0" keyframe="0" xtl="257.54" ytl="152.17" xbr="538.97" ybr="293.72">
+    </box>
+    <box frame="115" outside="0" occluded="0" keyframe="0" xtl="257.06" ytl="151.37" xbr="538.97" ybr="293.88">
+    </box>
+    <box frame="116" outside="0" occluded="0" keyframe="0" xtl="256.58" ytl="150.57" xbr="538.97" ybr="294.04">
+    </box>
+    <box frame="117" outside="0" occluded="0" keyframe="1" xtl="256.10" ytl="149.76" xbr="538.97" ybr="294.20">
+    </box>
+    <box frame="118" outside="0" occluded="0" keyframe="0" xtl="256.96" ytl="146.07" xbr="539.08" ybr="290.77">
+    </box>
+    <box frame="119" outside="0" occluded="0" keyframe="0" xtl="257.81" ytl="142.37" xbr="539.18" ybr="287.34">
+    </box>
+    <box frame="120" outside="0" occluded="0" keyframe="0" xtl="258.67" ytl="138.67" xbr="539.28" ybr="283.91">
+    </box>
+    <box frame="121" outside="0" occluded="0" keyframe="0" xtl="259.53" ytl="134.98" xbr="539.38" ybr="280.48">
+    </box>
+    <box frame="122" outside="0" occluded="0" keyframe="0" xtl="260.39" ytl="131.28" xbr="539.49" ybr="277.05">
+    </box>
+    <box frame="123" outside="0" occluded="0" keyframe="0" xtl="261.24" ytl="127.58" xbr="539.59" ybr="273.62">
+    </box>
+    <box frame="124" outside="0" occluded="0" keyframe="0" xtl="262.10" ytl="123.88" xbr="539.69" ybr="270.19">
+    </box>
+    <box frame="125" outside="0" occluded="0" keyframe="0" xtl="262.96" ytl="120.19" xbr="539.79" ybr="266.76">
+    </box>
+    <box frame="126" outside="0" occluded="0" keyframe="0" xtl="263.81" ytl="116.49" xbr="539.90" ybr="263.33">
+    </box>
+    <box frame="127" outside="0" occluded="0" keyframe="1" xtl="264.67" ytl="112.79" xbr="540.00" ybr="259.90">
+    </box>
+    <box frame="128" outside="0" occluded="0" keyframe="0" xtl="264.30" ytl="111.56" xbr="539.62" ybr="259.31">
+    </box>
+    <box frame="129" outside="0" occluded="0" keyframe="0" xtl="263.92" ytl="110.33" xbr="539.25" ybr="258.72">
+    </box>
+    <box frame="130" outside="0" occluded="0" keyframe="0" xtl="263.55" ytl="109.10" xbr="538.88" ybr="258.13">
+    </box>
+    <box frame="131" outside="0" occluded="0" keyframe="0" xtl="263.17" ytl="107.86" xbr="538.50" ybr="257.54">
+    </box>
+    <box frame="132" outside="0" occluded="0" keyframe="0" xtl="262.80" ytl="106.63" xbr="538.12" ybr="256.95">
+    </box>
+    <box frame="133" outside="0" occluded="0" keyframe="0" xtl="262.42" ytl="105.40" xbr="537.75" ybr="256.36">
+    </box>
+    <box frame="134" outside="0" occluded="0" keyframe="0" xtl="262.05" ytl="104.17" xbr="537.38" ybr="255.77">
+    </box>
+    <box frame="135" outside="0" occluded="0" keyframe="0" xtl="261.67" ytl="102.93" xbr="537.00" ybr="255.18">
+    </box>
+    <box frame="136" outside="0" occluded="0" keyframe="0" xtl="261.30" ytl="101.70" xbr="536.62" ybr="254.59">
+    </box>
+    <box frame="137" outside="0" occluded="0" keyframe="1" xtl="260.92" ytl="100.47" xbr="536.25" ybr="254.00">
+    </box>
+    <box frame="138" outside="0" occluded="0" keyframe="0" xtl="259.90" ytl="98.22" xbr="536.62" ybr="252.50">
+    </box>
+    <box frame="139" outside="0" occluded="0" keyframe="0" xtl="258.89" ytl="95.97" xbr="537.00" ybr="251.00">
+    </box>
+    <box frame="140" outside="0" occluded="0" keyframe="0" xtl="257.87" ytl="93.72" xbr="537.38" ybr="249.50">
+    </box>
+    <box frame="141" outside="0" occluded="0" keyframe="0" xtl="256.85" ytl="91.47" xbr="537.75" ybr="248.00">
+    </box>
+    <box frame="142" outside="0" occluded="0" keyframe="0" xtl="255.83" ytl="89.22" xbr="538.12" ybr="246.50">
+    </box>
+    <box frame="143" outside="0" occluded="0" keyframe="0" xtl="254.81" ytl="86.97" xbr="538.50" ybr="245.00">
+    </box>
+    <box frame="144" outside="0" occluded="0" keyframe="0" xtl="253.80" ytl="84.72" xbr="538.88" ybr="243.50">
+    </box>
+    <box frame="145" outside="0" occluded="0" keyframe="0" xtl="252.78" ytl="82.47" xbr="539.25" ybr="242.00">
+    </box>
+    <box frame="146" outside="0" occluded="0" keyframe="0" xtl="251.76" ytl="80.22" xbr="539.62" ybr="240.50">
+    </box>
+    <box frame="147" outside="0" occluded="0" keyframe="1" xtl="250.74" ytl="77.96" xbr="540.00" ybr="239.00">
+    </box>
+    <box frame="148" outside="0" occluded="0" keyframe="0" xtl="251.98" ytl="77.00" xbr="540.00" ybr="238.52">
+    </box>
+    <box frame="149" outside="0" occluded="0" keyframe="0" xtl="253.21" ytl="76.04" xbr="540.00" ybr="238.04">
+    </box>
+    <box frame="150" outside="0" occluded="0" keyframe="0" xtl="254.45" ytl="75.07" xbr="540.00" ybr="237.56">
+    </box>
+    <box frame="151" outside="0" occluded="0" keyframe="0" xtl="255.69" ytl="74.11" xbr="540.00" ybr="237.08">
+    </box>
+    <box frame="152" outside="0" occluded="0" keyframe="0" xtl="256.92" ytl="73.14" xbr="540.00" ybr="236.60">
+    </box>
+    <box frame="153" outside="0" occluded="0" keyframe="0" xtl="258.16" ytl="72.18" xbr="540.00" ybr="236.12">
+    </box>
+    <box frame="154" outside="0" occluded="0" keyframe="0" xtl="259.39" ytl="71.21" xbr="540.00" ybr="235.64">
+    </box>
+    <box frame="155" outside="0" occluded="0" keyframe="0" xtl="260.63" ytl="70.25" xbr="540.00" ybr="235.16">
+    </box>
+    <box frame="156" outside="0" occluded="0" keyframe="0" xtl="261.86" ytl="69.28" xbr="540.00" ybr="234.68">
+    </box>
+    <box frame="157" outside="0" occluded="0" keyframe="1" xtl="263.10" ytl="68.32" xbr="540.00" ybr="234.20">
+    </box>
+    <box frame="158" outside="0" occluded="0" keyframe="0" xtl="255.01" ytl="69.02" xbr="540.00" ybr="236.40">
+    </box>
+    <box frame="159" outside="0" occluded="0" keyframe="0" xtl="246.92" ytl="69.72" xbr="540.00" ybr="238.59">
+    </box>
+    <box frame="160" outside="0" occluded="0" keyframe="0" xtl="238.83" ytl="70.41" xbr="540.00" ybr="240.79">
+    </box>
+    <box frame="161" outside="0" occluded="0" keyframe="0" xtl="230.74" ytl="71.11" xbr="540.00" ybr="242.99">
+    </box>
+    <box frame="162" outside="0" occluded="0" keyframe="0" xtl="222.65" ytl="71.81" xbr="540.00" ybr="245.18">
+    </box>
+    <box frame="163" outside="0" occluded="0" keyframe="0" xtl="214.55" ytl="72.51" xbr="540.00" ybr="247.38">
+    </box>
+    <box frame="164" outside="0" occluded="0" keyframe="0" xtl="206.46" ytl="73.21" xbr="540.00" ybr="249.58">
+    </box>
+    <box frame="165" outside="0" occluded="0" keyframe="0" xtl="198.37" ytl="73.90" xbr="540.00" ybr="251.77">
+    </box>
+    <box frame="166" outside="0" occluded="0" keyframe="0" xtl="190.28" ytl="74.60" xbr="540.00" ybr="253.97">
+    </box>
+    <box frame="167" outside="0" occluded="0" keyframe="1" xtl="182.19" ytl="75.30" xbr="540.00" ybr="256.17">
+    </box>
+    <box frame="168" outside="0" occluded="0" keyframe="0" xtl="178.28" ytl="74.07" xbr="540.00" ybr="259.01">
+    </box>
+    <box frame="169" outside="0" occluded="0" keyframe="0" xtl="174.37" ytl="72.84" xbr="540.00" ybr="261.85">
+    </box>
+    <box frame="170" outside="0" occluded="0" keyframe="0" xtl="170.46" ytl="71.61" xbr="540.00" ybr="264.69">
+    </box>
+    <box frame="171" outside="0" occluded="0" keyframe="0" xtl="166.55" ytl="70.38" xbr="540.00" ybr="267.53">
+    </box>
+    <box frame="172" outside="0" occluded="0" keyframe="0" xtl="162.63" ytl="69.15" xbr="540.00" ybr="270.37">
+    </box>
+    <box frame="173" outside="0" occluded="0" keyframe="0" xtl="158.72" ytl="67.92" xbr="540.00" ybr="273.21">
+    </box>
+    <box frame="174" outside="0" occluded="0" keyframe="0" xtl="154.81" ytl="66.69" xbr="540.00" ybr="276.05">
+    </box>
+    <box frame="175" outside="0" occluded="0" keyframe="0" xtl="150.90" ytl="65.46" xbr="540.00" ybr="278.89">
+    </box>
+    <box frame="176" outside="0" occluded="0" keyframe="0" xtl="146.99" ytl="64.23" xbr="540.00" ybr="281.73">
+    </box>
+    <box frame="177" outside="0" occluded="0" keyframe="1" xtl="143.08" ytl="63.00" xbr="540.00" ybr="284.57">
+    </box>
+    <box frame="178" outside="0" occluded="0" keyframe="0" xtl="140.45" ytl="61.66" xbr="540.00" ybr="283.12">
+    </box>
+    <box frame="179" outside="0" occluded="0" keyframe="0" xtl="137.82" ytl="60.32" xbr="540.00" ybr="281.67">
+    </box>
+    <box frame="180" outside="0" occluded="0" keyframe="0" xtl="135.20" ytl="58.98" xbr="540.00" ybr="280.23">
+    </box>
+    <box frame="181" outside="0" occluded="0" keyframe="0" xtl="132.57" ytl="57.64" xbr="540.00" ybr="278.78">
+    </box>
+    <box frame="182" outside="0" occluded="0" keyframe="0" xtl="129.95" ytl="56.30" xbr="540.00" ybr="277.33">
+    </box>
+    <box frame="183" outside="0" occluded="0" keyframe="0" xtl="127.32" ytl="54.96" xbr="540.00" ybr="275.89">
+    </box>
+    <box frame="184" outside="0" occluded="0" keyframe="0" xtl="124.70" ytl="53.62" xbr="540.00" ybr="274.44">
+    </box>
+    <box frame="185" outside="0" occluded="0" keyframe="0" xtl="122.07" ytl="52.28" xbr="540.00" ybr="272.99">
+    </box>
+    <box frame="186" outside="0" occluded="0" keyframe="0" xtl="119.45" ytl="50.94" xbr="540.00" ybr="271.55">
+    </box>
+    <box frame="187" outside="0" occluded="0" keyframe="1" xtl="116.82" ytl="49.60" xbr="540.00" ybr="270.10">
+    </box>
+    <box frame="188" outside="0" occluded="0" keyframe="0" xtl="114.19" ytl="51.53" xbr="540.00" ybr="272.24">
+    </box>
+    <box frame="189" outside="0" occluded="0" keyframe="0" xtl="111.57" ytl="53.46" xbr="540.00" ybr="274.39">
+    </box>
+    <box frame="190" outside="0" occluded="0" keyframe="0" xtl="108.94" ytl="55.39" xbr="540.00" ybr="276.53">
+    </box>
+    <box frame="191" outside="0" occluded="0" keyframe="0" xtl="106.32" ytl="57.32" xbr="540.00" ybr="278.67">
+    </box>
+    <box frame="192" outside="0" occluded="0" keyframe="0" xtl="103.69" ytl="59.25" xbr="540.00" ybr="280.81">
+    </box>
+    <box frame="193" outside="0" occluded="0" keyframe="0" xtl="101.07" ytl="61.18" xbr="540.00" ybr="282.96">
+    </box>
+    <box frame="194" outside="0" occluded="0" keyframe="0" xtl="98.44" ytl="63.11" xbr="540.00" ybr="285.10">
+    </box>
+    <box frame="195" outside="0" occluded="0" keyframe="0" xtl="95.82" ytl="65.04" xbr="540.00" ybr="287.24">
+    </box>
+    <box frame="196" outside="0" occluded="0" keyframe="0" xtl="93.19" ytl="66.97" xbr="540.00" ybr="289.39">
+    </box>
+    <box frame="197" outside="0" occluded="0" keyframe="1" xtl="90.57" ytl="68.90" xbr="540.00" ybr="291.53">
+    </box>
+    <box frame="198" outside="0" occluded="0" keyframe="0" xtl="88.69" ytl="66.60" xbr="540.00" ybr="290.94">
+    </box>
+    <box frame="199" outside="0" occluded="0" keyframe="0" xtl="86.82" ytl="64.30" xbr="540.00" ybr="290.35">
+    </box>
+    <box frame="200" outside="0" occluded="0" keyframe="0" xtl="84.94" ytl="62.00" xbr="540.00" ybr="289.76">
+    </box>
+    <box frame="201" outside="0" occluded="0" keyframe="0" xtl="83.06" ytl="59.70" xbr="540.00" ybr="289.17">
+    </box>
+    <box frame="202" outside="0" occluded="0" keyframe="0" xtl="81.19" ytl="57.40" xbr="540.00" ybr="288.58">
+    </box>
+    <box frame="203" outside="0" occluded="0" keyframe="0" xtl="79.31" ytl="55.10" xbr="540.00" ybr="287.99">
+    </box>
+    <box frame="204" outside="0" occluded="0" keyframe="0" xtl="77.44" ytl="52.80" xbr="540.00" ybr="287.40">
+    </box>
+    <box frame="205" outside="0" occluded="0" keyframe="0" xtl="75.56" ytl="50.50" xbr="540.00" ybr="286.82">
+    </box>
+    <box frame="206" outside="0" occluded="0" keyframe="0" xtl="73.69" ytl="48.20" xbr="540.00" ybr="286.23">
+    </box>
+    <box frame="207" outside="0" occluded="0" keyframe="1" xtl="71.81" ytl="45.90" xbr="540.00" ybr="285.64">
+    </box>
+    <box frame="208" outside="0" occluded="0" keyframe="0" xtl="65.22" ytl="47.72" xbr="540.00" ybr="288.85">
+    </box>
+    <box frame="209" outside="0" occluded="0" keyframe="0" xtl="58.63" ytl="49.54" xbr="540.00" ybr="292.07">
+    </box>
+    <box frame="210" outside="0" occluded="0" keyframe="0" xtl="52.04" ytl="51.36" xbr="540.00" ybr="295.29">
+    </box>
+    <box frame="211" outside="0" occluded="0" keyframe="0" xtl="45.45" ytl="53.18" xbr="540.00" ybr="298.50">
+    </box>
+    <box frame="212" outside="0" occluded="0" keyframe="0" xtl="38.86" ytl="55.00" xbr="540.00" ybr="301.72">
+    </box>
+    <box frame="213" outside="0" occluded="0" keyframe="0" xtl="32.27" ytl="56.82" xbr="540.00" ybr="304.93">
+    </box>
+    <box frame="214" outside="0" occluded="0" keyframe="0" xtl="25.67" ytl="58.64" xbr="540.00" ybr="308.15">
+    </box>
+    <box frame="215" outside="0" occluded="0" keyframe="0" xtl="19.08" ytl="60.46" xbr="540.00" ybr="311.37">
+    </box>
+    <box frame="216" outside="0" occluded="0" keyframe="0" xtl="12.49" ytl="62.28" xbr="540.00" ybr="314.58">
+    </box>
+    <box frame="217" outside="0" occluded="0" keyframe="1" xtl="5.90" ytl="64.10" xbr="540.00" ybr="317.80">
+    </box>
+    <box frame="218" outside="0" occluded="0" keyframe="0" xtl="6.11" ytl="62.60" xbr="540.00" ybr="318.33">
+    </box>
+    <box frame="219" outside="0" occluded="0" keyframe="0" xtl="6.32" ytl="61.10" xbr="540.00" ybr="318.86">
+    </box>
+    <box frame="220" outside="0" occluded="0" keyframe="0" xtl="6.53" ytl="59.60" xbr="540.00" ybr="319.39">
+    </box>
+    <box frame="221" outside="0" occluded="0" keyframe="0" xtl="6.74" ytl="58.10" xbr="540.00" ybr="319.92">
+    </box>
+    <box frame="222" outside="0" occluded="0" keyframe="0" xtl="6.95" ytl="56.60" xbr="540.00" ybr="320.45">
+    </box>
+    <box frame="223" outside="0" occluded="0" keyframe="0" xtl="7.16" ytl="55.10" xbr="540.00" ybr="320.98">
+    </box>
+    <box frame="224" outside="0" occluded="0" keyframe="0" xtl="7.37" ytl="53.60" xbr="540.00" ybr="321.51">
+    </box>
+    <box frame="225" outside="0" occluded="0" keyframe="0" xtl="7.58" ytl="52.10" xbr="540.00" ybr="322.04">
+    </box>
+    <box frame="226" outside="0" occluded="0" keyframe="0" xtl="7.79" ytl="50.60" xbr="540.00" ybr="322.57">
+    </box>
+    <box frame="227" outside="0" occluded="0" keyframe="1" xtl="8.00" ytl="49.10" xbr="540.00" ybr="323.10">
+    </box>
+    <box frame="228" outside="0" occluded="0" keyframe="0" xtl="7.84" ytl="44.60" xbr="538.98" ybr="321.92">
+    </box>
+    <box frame="229" outside="0" occluded="0" keyframe="0" xtl="7.68" ytl="40.10" xbr="537.96" ybr="320.74">
+    </box>
+    <box frame="230" outside="0" occluded="0" keyframe="0" xtl="7.52" ytl="35.59" xbr="536.95" ybr="319.56">
+    </box>
+    <box frame="231" outside="0" occluded="0" keyframe="0" xtl="7.36" ytl="31.09" xbr="535.93" ybr="318.38">
+    </box>
+    <box frame="232" outside="0" occluded="0" keyframe="0" xtl="7.20" ytl="26.59" xbr="534.91" ybr="317.20">
+    </box>
+    <box frame="233" outside="0" occluded="0" keyframe="0" xtl="7.04" ytl="22.09" xbr="533.89" ybr="316.02">
+    </box>
+    <box frame="234" outside="0" occluded="0" keyframe="0" xtl="6.88" ytl="17.59" xbr="532.87" ybr="314.84">
+    </box>
+    <box frame="235" outside="0" occluded="0" keyframe="0" xtl="6.72" ytl="13.09" xbr="531.86" ybr="313.66">
+    </box>
+    <box frame="236" outside="0" occluded="0" keyframe="0" xtl="6.56" ytl="8.59" xbr="530.84" ybr="312.48">
+    </box>
+    <box frame="237" outside="0" occluded="0" keyframe="1" xtl="6.40" ytl="4.09" xbr="529.82" ybr="311.30">
+    </box>
+    <box frame="238" outside="0" occluded="0" keyframe="0" xtl="6.24" ytl="4.09" xbr="530.63" ybr="313.98">
+    </box>
+    <box frame="239" outside="0" occluded="0" keyframe="0" xtl="6.08" ytl="4.09" xbr="531.44" ybr="316.66">
+    </box>
+    <box frame="240" outside="0" occluded="0" keyframe="0" xtl="5.92" ytl="4.09" xbr="532.24" ybr="319.34">
+    </box>
+    <box frame="241" outside="0" occluded="0" keyframe="0" xtl="5.76" ytl="4.09" xbr="533.05" ybr="322.02">
+    </box>
+    <box frame="242" outside="0" occluded="0" keyframe="0" xtl="5.60" ytl="4.09" xbr="533.86" ybr="324.70">
+    </box>
+    <box frame="243" outside="0" occluded="0" keyframe="0" xtl="5.44" ytl="4.09" xbr="534.67" ybr="327.38">
+    </box>
+    <box frame="244" outside="0" occluded="0" keyframe="0" xtl="5.28" ytl="4.09" xbr="535.48" ybr="330.06">
+    </box>
+    <box frame="245" outside="0" occluded="0" keyframe="0" xtl="5.12" ytl="4.09" xbr="536.28" ybr="332.74">
+    </box>
+    <box frame="246" outside="0" occluded="0" keyframe="0" xtl="4.96" ytl="4.09" xbr="537.09" ybr="335.42">
+    </box>
+    <box frame="247" outside="0" occluded="0" keyframe="1" xtl="4.80" ytl="4.09" xbr="537.90" ybr="338.10">
+    </box>
+    <box frame="248" outside="0" occluded="0" keyframe="0" xtl="6.70" ytl="5.43" xbr="537.90" ybr="333.20">
+    </box>
+    <box frame="249" outside="0" occluded="0" keyframe="0" xtl="8.60" ytl="6.77" xbr="537.90" ybr="328.29">
+    </box>
+    <box frame="250" outside="0" occluded="0" keyframe="0" xtl="10.50" ytl="8.11" xbr="537.90" ybr="323.39">
+    </box>
+    <box frame="251" outside="0" occluded="0" keyframe="0" xtl="12.40" ytl="9.45" xbr="537.90" ybr="318.48">
+    </box>
+    <box frame="252" outside="0" occluded="0" keyframe="0" xtl="14.30" ytl="10.79" xbr="537.90" ybr="313.58">
+    </box>
+    <box frame="253" outside="0" occluded="0" keyframe="0" xtl="16.20" ytl="12.13" xbr="537.90" ybr="308.67">
+    </box>
+    <box frame="254" outside="0" occluded="0" keyframe="0" xtl="18.10" ytl="13.47" xbr="537.90" ybr="303.77">
+    </box>
+    <box frame="255" outside="0" occluded="0" keyframe="0" xtl="20.00" ytl="14.81" xbr="537.90" ybr="298.86">
+    </box>
+    <box frame="256" outside="0" occluded="0" keyframe="0" xtl="21.90" ytl="16.15" xbr="537.90" ybr="293.96">
+    </box>
+    <box frame="257" outside="0" occluded="0" keyframe="0" xtl="23.80" ytl="17.49" xbr="537.90" ybr="289.05">
+    </box>
+    <box frame="258" outside="0" occluded="0" keyframe="0" xtl="25.70" ytl="18.83" xbr="537.90" ybr="284.15">
+    </box>
+    <box frame="259" outside="0" occluded="0" keyframe="0" xtl="27.60" ytl="20.18" xbr="537.90" ybr="279.24">
+    </box>
+    <box frame="260" outside="0" occluded="0" keyframe="0" xtl="29.50" ytl="21.52" xbr="537.90" ybr="274.34">
+    </box>
+    <box frame="261" outside="0" occluded="0" keyframe="0" xtl="31.40" ytl="22.86" xbr="537.90" ybr="269.43">
+    </box>
+    <box frame="262" outside="0" occluded="0" keyframe="0" xtl="33.30" ytl="24.20" xbr="537.90" ybr="264.53">
+    </box>
+    <box frame="263" outside="0" occluded="0" keyframe="0" xtl="35.20" ytl="25.54" xbr="537.90" ybr="259.62">
+    </box>
+    <box frame="264" outside="0" occluded="0" keyframe="0" xtl="37.10" ytl="26.88" xbr="537.90" ybr="254.72">
+    </box>
+    <box frame="265" outside="0" occluded="0" keyframe="0" xtl="39.00" ytl="28.22" xbr="537.90" ybr="249.81">
+    </box>
+    <box frame="266" outside="0" occluded="0" keyframe="0" xtl="40.90" ytl="29.56" xbr="537.90" ybr="244.91">
+    </box>
+    <box frame="267" outside="0" occluded="0" keyframe="1" xtl="42.80" ytl="30.90" xbr="537.90" ybr="240.00">
+    </box>
+    <box frame="268" outside="0" occluded="0" keyframe="0" xtl="39.26" ytl="36.58" xbr="537.63" ybr="245.14">
+    </box>
+    <box frame="269" outside="0" occluded="0" keyframe="0" xtl="35.73" ytl="42.26" xbr="537.36" ybr="250.28">
+    </box>
+    <box frame="270" outside="0" occluded="0" keyframe="0" xtl="32.19" ytl="47.94" xbr="537.09" ybr="255.42">
+    </box>
+    <box frame="271" outside="0" occluded="0" keyframe="0" xtl="28.66" ytl="53.62" xbr="536.82" ybr="260.56">
+    </box>
+    <box frame="272" outside="0" occluded="0" keyframe="0" xtl="25.12" ytl="59.30" xbr="536.55" ybr="265.70">
+    </box>
+    <box frame="273" outside="0" occluded="0" keyframe="0" xtl="21.58" ytl="64.98" xbr="536.28" ybr="270.84">
+    </box>
+    <box frame="274" outside="0" occluded="0" keyframe="0" xtl="18.05" ytl="70.66" xbr="536.01" ybr="275.98">
+    </box>
+    <box frame="275" outside="0" occluded="0" keyframe="0" xtl="14.51" ytl="76.34" xbr="535.74" ybr="281.12">
+    </box>
+    <box frame="276" outside="0" occluded="0" keyframe="0" xtl="10.97" ytl="82.02" xbr="535.47" ybr="286.26">
+    </box>
+    <box frame="277" outside="0" occluded="0" keyframe="1" xtl="7.44" ytl="87.70" xbr="535.20" ybr="291.40">
+    </box>
+    <box frame="278" outside="0" occluded="0" keyframe="0" xtl="7.39" ytl="87.31" xbr="535.15" ybr="292.95">
+    </box>
+    <box frame="279" outside="0" occluded="0" keyframe="0" xtl="7.34" ytl="86.92" xbr="535.10" ybr="294.51">
+    </box>
+    <box frame="280" outside="0" occluded="0" keyframe="0" xtl="7.29" ytl="86.53" xbr="535.05" ybr="296.06">
+    </box>
+    <box frame="281" outside="0" occluded="0" keyframe="0" xtl="7.24" ytl="86.14" xbr="535.01" ybr="297.62">
+    </box>
+    <box frame="282" outside="0" occluded="0" keyframe="0" xtl="7.19" ytl="85.75" xbr="534.96" ybr="299.17">
+    </box>
+    <box frame="283" outside="0" occluded="0" keyframe="0" xtl="7.15" ytl="85.36" xbr="534.91" ybr="300.73">
+    </box>
+    <box frame="284" outside="0" occluded="0" keyframe="0" xtl="7.10" ytl="84.97" xbr="534.86" ybr="302.28">
+    </box>
+    <box frame="285" outside="0" occluded="0" keyframe="0" xtl="7.05" ytl="84.58" xbr="534.81" ybr="303.84">
+    </box>
+    <box frame="286" outside="0" occluded="0" keyframe="0" xtl="7.00" ytl="84.19" xbr="534.76" ybr="305.39">
+    </box>
+    <box frame="287" outside="0" occluded="0" keyframe="0" xtl="6.95" ytl="83.80" xbr="534.71" ybr="306.95">
+    </box>
+    <box frame="288" outside="0" occluded="0" keyframe="1" xtl="6.90" ytl="83.41" xbr="534.66" ybr="308.50">
+    </box>
+    <box frame="289" outside="0" occluded="0" keyframe="0" xtl="6.78" ytl="82.10" xbr="534.55" ybr="307.19">
+    </box>
+    <box frame="290" outside="0" occluded="0" keyframe="0" xtl="6.66" ytl="80.79" xbr="534.43" ybr="305.88">
+    </box>
+    <box frame="291" outside="0" occluded="0" keyframe="0" xtl="6.54" ytl="79.49" xbr="534.31" ybr="304.57">
+    </box>
+    <box frame="292" outside="0" occluded="0" keyframe="0" xtl="6.43" ytl="78.18" xbr="534.19" ybr="303.26">
+    </box>
+    <box frame="293" outside="0" occluded="0" keyframe="0" xtl="6.31" ytl="76.87" xbr="534.07" ybr="301.95">
+    </box>
+    <box frame="294" outside="0" occluded="0" keyframe="0" xtl="6.19" ytl="75.56" xbr="533.95" ybr="300.64">
+    </box>
+    <box frame="295" outside="0" occluded="0" keyframe="0" xtl="6.07" ytl="74.25" xbr="533.83" ybr="299.33">
+    </box>
+    <box frame="296" outside="0" occluded="0" keyframe="0" xtl="5.95" ytl="72.94" xbr="533.71" ybr="298.02">
+    </box>
+    <box frame="297" outside="0" occluded="0" keyframe="1" xtl="5.83" ytl="71.63" xbr="533.59" ybr="296.71">
+    </box>
+    <box frame="298" outside="0" occluded="0" keyframe="0" xtl="5.83" ytl="72.71" xbr="534.40" ybr="296.71">
+    </box>
+    <box frame="299" outside="0" occluded="0" keyframe="1" xtl="5.83" ytl="73.80" xbr="535.20" ybr="296.71">
+    </box>
+  </track>
+</annotations>
